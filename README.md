@@ -1,1 +1,1 @@
-Click on the given link to be prompted to download the game and play :)
+Click on the given link, [https://github.com/kingeln/fork-in-the-road/blob/main/fork%20in%20the%20road%20final%20version%20(2).html](url) or click on the "fork in the road final version (2).html" link above. There, you'll see a small rectangular box towards the top right. Hover over the arrow pointing down symbol to see a text appear saying "Download raw file". Click on that symbol, and then access the download in your computer to play :)
